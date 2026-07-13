@@ -34,16 +34,16 @@ I'm a Computer Science and Business Systems (CSBS) student with a strong interes
 * Google Colab
 * Figma
 
-## 🚀 Projects
+##  Projects
 
-* 🐧 **Penguin Species Classification** using logistic classification model
-* 🩺 **Diabetes Progression Prediction** using linear regression model
-* 📱 **Mobile Price Classification** using random forest model
-* 🌫️ **Air Quality Clustering** using clustering model
-* 🚦 **Traffic Volume Forecasting** using SARIMA model
-* 🚢 **Maritime Vessel Anomaly Detection** using XGBoost & Isolation Forest
+*  **Penguin Species Classification** using logistic classification model
+*  **Diabetes Progression Prediction** using linear regression model
+*  **Mobile Price Classification** using random forest model
+*  **Air Quality Clustering** using clustering model
+*  **Traffic Volume Forecasting** using SARIMA model
+*  **Maritime Vessel Anomaly Detection** using XGBoost & Isolation Forest
 
-## 💼 Experience
+## Experience
 
 Role: Front End Web Development Intern | Edunet Foundation 
 • Built responsive web pages using HTML, CSS, and JavaScript.
@@ -57,7 +57,7 @@ Role: AI Intern | Company Name: Business Core Solutions
 • Applying ML techniques to solve real-world problems and improve model performance.
 
 
-## 📚 Currently Learning
+## Currently Learning
 
 * Data Structures & Algorithms
 * Deep Learning
