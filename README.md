@@ -48,9 +48,11 @@ I'm a Computer Science and Business Systems (CSBS) student with a strong interes
 Role: Front End Web Development Intern | Edunet Foundation 
 • Built responsive web pages using HTML, CSS, and JavaScript.
 • Developed interactive website projects
+
 Role: Ui/Ux Designer Intern | Company Name: Gravity AI 
 • Designed responsive UI prototypes using Figma. 
 • Improved usability through collaborative design iterations. 
+
 Role: AI Intern | Company Name: Business Core Solutions 
 • Working on end-to-end machine learning projects using structured datasets. 
 • Performing data preprocessing, EDA, feature engineering, model training, and evaluation. 
