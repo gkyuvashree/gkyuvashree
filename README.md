@@ -14,8 +14,6 @@ I'm a Computer Science and Business Systems (CSBS) student with a strong interes
 **Languages**
 
 * Python
-* HTML5
-* CSS3
 * SQL
 
 **Frontend**
